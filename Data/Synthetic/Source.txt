@@ -1,0 +1,5 @@
+L3SF_V2 preuzet s Kaggle
+https://www.kaggle.com/datasets/abvwmc/level-three-synthetic-fingerprint-generation-l3-sf
+
+DB4_B preuzet s Kaggle (iz istog dataseta kao i real otisci)
+https://www.kaggle.com/datasets/nageshsingh/fvc2002-fingerprints?resource=download
